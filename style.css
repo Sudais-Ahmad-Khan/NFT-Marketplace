@@ -1229,7 +1229,7 @@ hr {
         width: 295px;
     }
     .man {
-        display: none;
+        display: block;
     }
     .f_info {
         flex-direction: column;
@@ -1470,7 +1470,7 @@ hr {
         justify-items: center;
         align-content: center;
     }
-    .imran {
+    .man {
         display: none;
     }
     .frame240 {
